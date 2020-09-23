@@ -1,2 +1,2 @@
 # Generate-test-datasets-for-Machine-Learning
-Generate DataSets for machine learning model testing using Scikit-Learn(Sklearn)
+Generate Test DataSets for machine learning to test the model using pandas and numpy
